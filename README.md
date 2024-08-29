@@ -21,7 +21,6 @@
         <li><a href="#installation">Installation Steps</a></li>
       </ul>
     </li>
-    <li><a href="#license">Licensing</a></li>
   </ol>
 </details>
 
