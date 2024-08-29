@@ -34,13 +34,6 @@ SOFTWARE. -->
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/HeadStarterTeam2024/flashcard-saas">
-    <img src="src/app/logo.png" alt="Logo" width="200" height="200">
-  </a>
-
   <h3 align="center">FlashWise</h3>
 
   <p align="center">
@@ -48,13 +41,6 @@ SOFTWARE. -->
     <br />
     <a href="#"><strong>Explore the App »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/HeadStarterTeam2024/flashcard-saas">View Demo</a>
-    ·
-    <a href="https://github.com/HeadStarterTeam2024/flashcard-saas/issues">Report Issues</a>
-    ·
-    <a href="https://github.com/HeadStarterTeam2024/flashcard-saas/issues">Request Features</a>
-  </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
