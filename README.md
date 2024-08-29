@@ -39,13 +39,10 @@ SOFTWARE. -->
   <p align="center">
     Revolutionize your learning experience with FlashWise, a cutting-edge flashcard SaaS solution crafted with Next.js, Clerk, Firebase, OpenAI, and Stripe.
     <br />
-    <a href="#"><strong>Explore the App »</strong></a>
-    <br />
 </div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">Project Overview</a>
