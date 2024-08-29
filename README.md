@@ -22,7 +22,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.-->
+SOFTWARE. -->
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
@@ -34,96 +34,76 @@ SOFTWARE.-->
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/HeadStarterTeam2024/flashcard-saas">
-    <img src="src\app\logo.png" alt="Logo" width="200" height="200">
+    <img src="src/app/logo.png" alt="Logo" width="200" height="200">
   </a>
 
-<h3 align="center">FlashCard-SAAS</h3>
+  <h3 align="center">FlashWise</h3>
 
   <p align="center">
-    A flashcard SaaS with Next.js, Clerk, Firebase, OpenAI, and Stripe.
+    Revolutionize your learning experience with FlashWise, a cutting-edge flashcard SaaS solution crafted with Next.js, Clerk, Firebase, OpenAI, and Stripe.
     <br />
-    <a href=#><strong>Take me to the app »</strong></a>
+    <a href="#"><strong>Explore the App »</strong></a>
     <br />
     <br />
     <a href="https://github.com/HeadStarterTeam2024/flashcard-saas">View Demo</a>
     ·
-    <a href="https://github.com/HeadStarterTeam2024/flashcard-saas/issues">Report Bug</a>
+    <a href="https://github.com/HeadStarterTeam2024/flashcard-saas/issues">Report Issues</a>
     ·
-    <a href="https://github.com/HeadStarterTeam2024/flashcard-saas/issues">Request Feature</a>
+    <a href="https://github.com/HeadStarterTeam2024/flashcard-saas/issues">Request Features</a>
   </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Project Overview</a>
       <ul>
-        <li><a href="#features">Features</a></li>
-        <li><a href="#authors">Authors</a></li>
+        <li><a href="#features">Key Features</a></li>
+        <li><a href="#authors">Creators</a></li>
       </ul>
     </li>
     <li>
-    <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Setup Instructions</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Requirements</a></li>
+        <li><a href="#installation">Installation Steps</a></li>
       </ul>
     </li>
+    <li><a href="#license">Licensing</a></li>
   </ol>
 </details>
 
+<!-- ABOUT THE PROJECT -->
+## Project Overview
 
-## About the Project
+### Key Features
+FlashWise is a state-of-the-art flashcard software-as-a-service (SaaS) platform, engineered with Next.js, Clerk, Firebase, OpenAI, and Stripe to provide an optimal learning experience. 
 
-### Features
-A flashcard SaaS with Next.js, Clerk, Firebase, OpenAI, and Stripe.
+<!-- GETTING STARTED -->
+## Setup Instructions
 
-## Getting Started
+### Requirements
 
-### Prerequisites
-1. Install Node.js v22.5.1 to be compatible with this app, from the [official Node.js website](https://nodejs.org/en).
-2. Clone this GitHub repository:
-```bash
-git clone https://github.com/HeadStarterTeam2024/flashcard-saas
-```
+1. Download and install Node.js v22.5.1 from the [official Node.js website](https://nodejs.org/en) to ensure compatibility.
+2. Clone this repository from [GitHub](https://github.com/HeadStarterTeam2024/flashcard-saas).
 
-Note: This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+   Note: FlashWise utilizes `next/font` for automatic optimization and integration of the Inter font, a custom Google Font.
 
-### Installation
-Run the development server with this command:
+### Installation Steps
 
-```bash
-npm run dev
-```
+1. Start the development server.
+2. Visit [http://localhost:3000](http://localhost:3000) in your browser to view the application.
+3. Prepare for a production deployment.
+4. Install the Vercel CLI and authenticate your credentials.
+5. Deploy the application using Vercel.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<!-- LICENSE -->
+## Licensing
 
-Build a production deployment with this command:
-
-```bash
-npm run build
-```
-
-Install Vercel CLI with the followign command and login with your credentials:
-```
-npm i -g vercel
-```
-
-Deploy to Vercel:
-```bash
-vercel
-```
-
-## License
-Please refer to LICENSE file.
-
-
-
-
+This project operates under the MIT License. For more information, consult the [LICENSE](LICENSE) file.
