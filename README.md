@@ -1,49 +1,42 @@
 # FlashWise
 
-  FlashWise : Revolutionize your learning experience with FlashWise, a cutting-edge flashcard SaaS solution crafted with Next.js, Clerk, Firebase, OpenAI, and Stripe.
-  
-</div>
+Revolutionize your learning experience with FlashWise, a cutting-edge flashcard SaaS solution crafted with Next.js, Clerk, Firebase, OpenAI, and Stripe. FlashWise provides an interactive and engaging way to master new concepts with custom flashcards, seamless authentication, and advanced AI-driven features.
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <ol>
-    <li>
-      <a href="#about-the-project">Project Overview</a>
-      <ul>
-        <li><a href="#features">Key Features</a></li>
-        <li><a href="#authors">Creators</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Setup Instructions</a>
-      <ul>
-        <li><a href="#prerequisites">Requirements</a></li>
-        <li><a href="#installation">Installation Steps</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>
+## Table of Contents
 
-<!-- ABOUT THE PROJECT -->
+1. [Project Overview](#project-overview)
+   - [Key Features](#key-features)
+2. [Setup Instructions](#setup-instructions)
+
 ## Project Overview
 
 ### Key Features
-FlashWise is a state-of-the-art flashcard software-as-a-service (SaaS) platform, engineered with Next.js, Clerk, Firebase, OpenAI, and Stripe to provide an optimal learning experience. 
 
-<!-- GETTING STARTED -->
+- **Next.js**: Utilizes Next.js for a fast, scalable, and optimized React application.
+- **Clerk**: Handles user authentication and management with a secure and user-friendly interface.
+- **Firebase**: Provides a robust backend for real-time database management and cloud functions.
+- **OpenAI**: Integrates AI to enhance flashcard creation and review with intelligent suggestions.
+- **Stripe**: Manages payments and subscriptions, ensuring a smooth financial transaction process.
+
+FlashWise is designed to offer an exceptional learning experience, combining modern web technologies with powerful AI and secure user management.
+
 ## Setup Instructions
 
 ### Requirements
 
-1. Download and install Node.js v22.5.1 from the [official Node.js website](https://nodejs.org/en) to ensure compatibility.
-2. Clone this repository from [GitHub](https://github.com/HeadStarterTeam2024/flashcard-saas).
+Before setting up FlashWise, ensure that you have the following prerequisites:
 
-   Note: FlashWise utilizes `next/font` for automatic optimization and integration of the Inter font, a custom Google Font.
+1. **Node.js**: Install the compatible version from the official Node.js website.
+2. **Git**: Ensure Git is installed on your system to clone the repository.
 
 ### Installation Steps
 
-1. Start the development server.
-2. Visit [http://localhost:3000](http://localhost:3000) in your browser to view the application.
-3. Prepare for a production deployment.
-4. Install the Vercel CLI and authenticate your credentials.
-5. Deploy the application using Vercel.
+1. **Clone the Repository**: Obtain the project repository from GitHub.
+2. **Navigate to the Project Directory**: Access the project's directory on your local machine.
+3. **Install Dependencies**: Install the required dependencies for the project.
+4. **Start the Development Server**: Launch the server to view the application in your browser.
+5. **Build for Production**: Prepare the application for a production environment.
+6. **Install Vercel CLI**: Set up Vercel CLI for deployment purposes.
+7. **Deploy to Vercel**: Deploy the application to Vercel for hosting.
+
+Feel free to follow these steps to get started with FlashWise and enjoy its features.
